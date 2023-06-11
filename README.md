@@ -1,3 +1,8 @@
+Functionality for an elevator structure built with building blocks from Elecfreaks Wonder Kit. The structure has three different floors from which the user can choose in which floor the elevator must stop. Under the elevator box there a Grove ultrasonic distance sensor that is used to identify when a floor has reached.
+
+Elevator Building: https://www.mecabricks.com/en/models/0DvYmV69v9e
+
+---------------
 
 > Άνοιγμα αυτής της σελίδας στο [https://okirioskliklikos.github.io/robolab---elevator/](https://okirioskliklikos.github.io/robolab---elevator/)
 
